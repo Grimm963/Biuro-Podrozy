@@ -1,0 +1,11 @@
+
+
+{
+    "wycieczki":[{"nazwa":"Japonia", "cena":7400, "waluta":"pln"}, 
+                {"nazwa":"Islandia", "cena":6500, "waluta":"pln"}],
+    
+
+
+
+    "ubezpieczenia":[{"nazwa": "Ubezpieczenie", "cena":500, "waluta":"pln"}]
+}
