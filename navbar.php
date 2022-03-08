@@ -23,7 +23,7 @@
 }
 
 .open{
-  font-size:40px;
+  font-size: 30px;
   cursor:pointer;
   margin-left: 0.5em;
 }
