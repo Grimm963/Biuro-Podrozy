@@ -146,7 +146,7 @@ include('navbar.php');
         <img src="https://www.ndf.int/media/photos/images/cache/rwanda-view-of-kigali-oledoe-cc-400x400,c,q=75.jpg"  width="100%" height="100%">
         <div class="text">
             <span>Rwanda i Uganda</span><br>
-            <span>&#11088 &#11088 &#11088 &#11088 &#x2606</span><br>
+            <span>&#11088 &#11088 &#11088 &#x2606 &#x2606</span><br>
             <span>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi incidunt accusamus earum possimus nobis est ipsum optio dignissimos quaerat soluta tenetur corrupti nam, aspernatur et tempora repellendus? Architecto, adipisci hic!</span>
         </div>
     </a></div>

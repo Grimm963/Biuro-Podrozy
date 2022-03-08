@@ -22,6 +22,12 @@
   padding-top: 60px;
 }
 
+.open{
+  font-size:40px;
+  cursor:pointer;
+  margin-left: 0.5em;
+}
+
 .sidenav a {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
@@ -51,10 +57,10 @@
     <div id="mySidenav" class="sidenav">
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
         <a class="odnosnik" href="index.php"><i class="bi bi-list"></i>&nbsp Menu</a>
-        <a class="odnosnik" href=""><i class="bi bi-cursor"></i>&nbsp Wycieczki</a>
+        <a class="odnosnik" href="store.php"><i class="bi bi-cursor"></i>&nbsp Wycieczki</a>
         <a class="odnosnik" href="#footer"><i class="bi bi-telephone"></i>&nbsp Kontakt</a>
     </div>
-<span class="open" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+<span class="open" style="font-size:40px;cursor:pointer" onclick="openNav()">&#9776;</span>
 
 
 <script>
