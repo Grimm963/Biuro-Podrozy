@@ -78,6 +78,19 @@ include("navbar.php");
             </div>
         </section>
         <section class="container content-section">
+            <h2 class="section-header">TRANSPORT NA LOTNISKO</h2>
+            <div class="shop-items">
+                <div class="shop-item">
+                    <span class="shop-item-title">AUTOKAR (KATOWICE)</span>
+                    <img class="shop-item-image" src="https://www.foltrans.com/wp-content/uploads/2017/04/bova-13-360-400x400.jpg">
+                    <div class="shop-item-details">
+                        <span class="shop-item-price">200 pln</span>
+                        <button class="btn btn-primary shop-item-button" type="button">DODAJ</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="container content-section">
             <h2 class="section-header">KOSZYK</h2>
             <div class="cart-row">
                 <span class="cart-item cart-header cart-column">RZECZ</span>

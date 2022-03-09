@@ -72,7 +72,7 @@ html, body {
 
 .container {
     max-width: 900px;
-    margin: 0 auto;
+    margin: 5em auto;
     padding: 0 1.5em;
 }
 .section-header {
@@ -196,6 +196,11 @@ html, body {
 
 .shop-item-price {
     flex-grow: 1;
+    color: #333;
+}
+
+.shop-item-price {
+    flex-grow: wrap;
     color: #333;
 }
 
