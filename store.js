@@ -1,3 +1,78 @@
+class Wycieczki
+{
+    price = 7400;
+    name = 'JAPONIA';
+    constructor(name, price){
+        this.name = name;
+        this.price = price;
+    }
+}
+
+class Ubezpieczenie
+{
+    price = 500;
+    name = 'PZU';
+    constructor(name, price){
+        this.name = name;
+        this.price = price;
+    }
+}
+
+class Transport
+{
+    price = 200;
+    name = 'AUTOKAR(Katowice)';
+    constructor(name, price){
+        this.name = name;
+        this.price = price;
+    }
+}
+
+var WycieczkiTab=[
+    new Wycieczki("JAPONIA", 7400),
+    new Wycieczki("ISLANDIA", 6500),
+    new Wycieczki("KOLUMBIA", 5600),
+    new Wycieczki("MEKSYK", 4900)
+];
+
+
+var UbezpieczenieTab=[
+    new Ubezpieczenie("PZU", 500),
+    new Ubezpieczenie("INNE", 100)
+];
+
+var TransportTab=[
+    new Transport("AUTOKAR(Katowice)", 200)
+];
+
+// var target=document.getElementsByClassName("Container content-section");
+// var template=  `<section class="container content-section">
+//                 <h2 class="section-header">TRANSPORT NA LOTNISKO</h2>
+//                 <div class="shop-items">
+//                     <div class="shop-item">
+//                         <span class="shop-item-title">${Wycieczki.name}</span>
+//                         <img class="shop-item-image" src="https://www.foltrans.com/wp-content/uploads/2017/04/bova-13-360-400x400.jpg"${imgSource}>
+//                         <div class="shop-item-details">
+//                             <span class="shop-item-price">${price}</span>
+//                             <button class="btn btn-primary shop-item-button" type="button">DODAJ</button>
+//                         </div>
+//                     </div>
+//                 </div>
+//                </section>`
+
+// function priceFunction(){
+//     //document.getElementsByClassName('shop-item-price')
+//     for (u in WycieczkiTab){
+//         console.log(u);
+//     }
+// }
+
+// WycieczkiTab.forEach(function(Wycieczki){
+//     target.insertAdjacentHtml("beforeend", template.replace(/~id~/g, item);
+// });
+
+
+
 if (document.readyState == 'loading') {
     document.addEventListener('DOMContentLoaded', ready)
 } else {

@@ -630,12 +630,17 @@
         cursor: pointer;
         width: 8vw;
       }
+
+      .cena:link{
+        text-decoration: none;
+      }
   
     
       .koszyk{
         display: flex;
         justify-content: center;
         text-align: center;
+        text-decoration: none;
       }
   
       .footer {
