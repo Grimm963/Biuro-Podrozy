@@ -12,7 +12,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?=$title??"(bez tytułu)"?></title>
     <link rel="stylesheet" href="stylesAll.css">
-    <!-- <link rel="stylesheet" href="koszyk.css"> -->
     <link rel="stylesheet" href="bootstrap-icons.css">
 
 

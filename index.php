@@ -74,13 +74,6 @@ include('navbar.php');
               dots[slideIndex-1].className += " active";
             }
 
-            // function myFunction(){
-            //     document.getElementById("zamiana").src="https://c.tenor.com/O6nu0csYjhUAAAAM/astolfo.gif";
-            // }
-            // function myFunction1(){
-            //     document.getElementById("zamiana").src=document.getElementById("zamiana").src="https://resources.matcha-jp.com/resize/720x2000/2021/01/28-112002.jpeg";
-            // }
-
             function myFunction()
             {
                 if( document.getElementById("zamiana").src == "https://resources.matcha-jp.com/resize/720x2000/2021/01/28-112002.jpeg")
@@ -95,52 +88,6 @@ include('navbar.php');
             }
             </script>
     
-    
-
-    <!-- <div class="oferty"> 
-        <img src="https://paczka-wiedzy.pl/wp-content/uploads/2018/02/palmy.jpg">
-        <span>aaaaaaaaaaaa</span>
-        <div class="cena">  
-            <span>2000 zl</span>
-        </div> -->
-
-    <!-- <div class="struktura">
-        <div class="oferta">
-            <img src="https://uwalls.pl/gallery/73/7582_thumb_b1000.jpg" width="60%">
-            <div class="bot">
-                <span> oferta jest super, polecam</span>
-            </div>
-        </div>
-        <div class="oferta">
-            <img src="http://bambusowysen.pl/wp-content/uploads/2012/11/phoenix_mini2.jpg" width="80%>">
-            <div class="bot">
-                <span> oferta jest super, polecam</span>
-            </div>
-        </div>
-        <div class="oferta">
-            <img src="https://static.zakumaj.pl/data/store/2015/7/1a94544d-84d7-7073-7775-3c79c406c43a/picture_large.jpg" width="280em">
-            <div class="bot">
-                <span> oferta jest super, polecam</span>
-            </div>
-        </div>
-    </div> -->
-
-    <!-- <div class="struktura">
-        <ul class="linia">
-            <li class="oferta">
-                <img src="https://uwalls.pl/gallery/73/7582_thumb_b1000.jpg"width="30%">
-                <div class="bot">oferta</div>
-            </li>
-            <li class="oferta">
-                <img src="http://bambusowysen.pl/wp-content/uploads/2012/11/phoenix_mini2.jpg"width="30%">
-                <div class="bot">oferta</div>
-            </li>
-            <li class="oferta">
-                <img src="https://static.zakumaj.pl/data/store/2015/7/1a94544d-84d7-7073-7775-3c79c406c43a/picture_large.jpg" width="50%">
-                <div class="bot">oferta</div>
-            </li>
-        </ul>
-    </div> -->
     <div class="content_img"> <a href="Uganda.php">
         <img src="https://www.ndf.int/media/photos/images/cache/rwanda-view-of-kigali-oledoe-cc-400x400,c,q=75.jpg"  width="100%" height="100%">
         <div class="text">

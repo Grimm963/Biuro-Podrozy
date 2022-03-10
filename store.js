@@ -45,20 +45,20 @@ var TransportTab=[
     new Transport("AUTOKAR(Katowice)", 200)
 ];
 
-// var target=document.getElementsByClassName("Container content-section");
-// var template=  `<section class="container content-section">
-//                 <h2 class="section-header">TRANSPORT NA LOTNISKO</h2>
-//                 <div class="shop-items">
-//                     <div class="shop-item">
-//                         <span class="shop-item-title">${Wycieczki.name}</span>
-//                         <img class="shop-item-image" src="https://www.foltrans.com/wp-content/uploads/2017/04/bova-13-360-400x400.jpg"${imgSource}>
-//                         <div class="shop-item-details">
-//                             <span class="shop-item-price">${price}</span>
-//                             <button class="btn btn-primary shop-item-button" type="button">DODAJ</button>
-//                         </div>
-//                     </div>
-//                 </div>
-//                </section>`
+var target=document.getElementsByClassName("Container content-section");
+var template=  `<section class="container content-section">
+                <h2 class="section-header">TRANSPORT NA LOTNISKO</h2>
+                <div class="shop-items">
+                    <div class="shop-item">
+                        <span class="shop-item-title">${Wycieczki.name}</span>
+                        <img class="shop-item-image" src="https://www.foltrans.com/wp-content/uploads/2017/04/bova-13-360-400x400.jpg"${imgSource}>
+                        <div class="shop-item-details">
+                            <span class="shop-item-price">${price}</span>
+                            <button class="btn btn-primary shop-item-button" type="button">DODAJ</button>
+                        </div>
+                    </div>
+                </div>
+               </section>`
 
 // function priceFunction(){
 //     //document.getElementsByClassName('shop-item-price')

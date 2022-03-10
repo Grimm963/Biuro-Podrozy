@@ -1,12 +1,3 @@
-<!-- 
-<div class="navbar">
-        <ul class="menu">
-            <li class="menu1"> <a class="odnosnik" href="index.php"><i class="bi bi-list"></i>&nbsp Menu</a></li>
-            <li class="menu1"> <a class="odnosnik" href=""><i class="bi bi-cursor"></i>&nbsp Wycieczki</a></li>
-            <li class="menu1" style="float:right"> <a class="odnosnik" href="#footer"><i class="bi bi-telephone"></i>&nbsp Kontakt</a></li>
-        </ul>
-</div> -->
-
 <style>
 
 .sidenav {
